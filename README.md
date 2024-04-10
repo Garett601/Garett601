@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garett601
 - 👀 I’m interested in Engineering and applying Data Science techniques to a broad spectrum of business functions
 - 🔨 I'm interested in learning all there is to learn about MLOps
-- 🌱 I’m currently doing my Masters in Data Science at Stellenbosch University
+- 🌱 Masters in Data Science at Stellenbosch University (cum laude)
 - 💞️ I’m looking to collaborate on any interesting projects that will help me grow as a Data Scientist
 
 <!---
